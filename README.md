@@ -1,2 +1,5 @@
-# Cryptocurrencies
-After using Pandas to clean data on cryptocurrencies, I used sklearn to scale and cluster the data. Different sklearn algorithms were employed to determine correlations that tell a story about 4 different cryptocurrency patterns. An elbow curve was used to determine that 4 was a relevant number of clusters to start testing for, as can be seen in challenge.ipynb IN[13].
+# Cryptocurrencies with Machine Learning
+Determines optimal Cryptocurrencies using unsupervised machine learning
+- Uses Python Pandas to extract and clean data on cryptocurrencies
+- Implements sklearn to first scale and cluster the data and elbow curve to determine relevant number of clusters
+- Different sklearn algorithms were employed to determine correlations that highlight 4 different cryptocurrency patterns
